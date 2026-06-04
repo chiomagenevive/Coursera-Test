@@ -11,6 +11,28 @@ body {
     font-size: 1.8em;
     font-weight: bold;
 }
+/* Mobile menu */
+#nav-list {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #f0f0f0;
+}
+
+#nav-list li {
+    border: 1px solid #000;
+}
+
+#nav-list a {
+    text-align: center;
+    font-size: 1.3em;
+    color: #000;
+}
+
+/* Remove navbar spacing */
+.navbar-collapse {
+    padding-left: 0;
+    padding-right: 0;
+}
 
 /* Mobile Menu */
 #mobile-menu {
