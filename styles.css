@@ -1,1 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+}
 
+/* Navbar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+
+/* Mobile Menu */
+#mobile-menu {
+    background-color: #d9edf7;
+}
+
+#mobile-menu ul {
+    width: 100%;
+}
+
+#mobile-menu li {
+    border-bottom: 1px solid #999;
+}
+
+#mobile-menu a {
+    color: #000;
+}
+
+/* Main Content Section */
+.menu-section {
+    background-color: #dddddd;
+    height: 1000px;
+    padding: 20px;
+    margin: 15px;
+}
