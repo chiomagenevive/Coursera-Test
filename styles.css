@@ -15,6 +15,7 @@ body {
 /* Mobile Menu */
 #mobile-menu {
     background-color: #d9edf7;
+    width: 100%;
 }
 
 #mobile-menu ul {
@@ -27,6 +28,9 @@ body {
 
 #mobile-menu a {
     color: #000;
+}
+#mobile-menu .nav {
+    width: 100%;
 }
 
 /* Main Content Section */
